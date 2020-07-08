@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HokkaidoTravel/static/css/main.00c322fc.chunk.css",
-    "main.js": "/HokkaidoTravel/static/js/main.b07de2f7.chunk.js",
-    "main.js.map": "/HokkaidoTravel/static/js/main.b07de2f7.chunk.js.map",
+    "main.js": "/HokkaidoTravel/static/js/main.06ff1ed8.chunk.js",
+    "main.js.map": "/HokkaidoTravel/static/js/main.06ff1ed8.chunk.js.map",
     "runtime-main.js": "/HokkaidoTravel/static/js/runtime-main.bdbc6cfe.js",
     "runtime-main.js.map": "/HokkaidoTravel/static/js/runtime-main.bdbc6cfe.js.map",
     "static/js/2.01abe5bc.chunk.js": "/HokkaidoTravel/static/js/2.01abe5bc.chunk.js",
     "static/js/2.01abe5bc.chunk.js.map": "/HokkaidoTravel/static/js/2.01abe5bc.chunk.js.map",
     "index.html": "/HokkaidoTravel/index.html",
-    "precache-manifest.24b45215c3f1d99ddc5764414f217c47.js": "/HokkaidoTravel/precache-manifest.24b45215c3f1d99ddc5764414f217c47.js",
+    "precache-manifest.ab4c460c13031f13ee966a415fcb7fc8.js": "/HokkaidoTravel/precache-manifest.ab4c460c13031f13ee966a415fcb7fc8.js",
     "service-worker.js": "/HokkaidoTravel/service-worker.js",
     "static/css/main.00c322fc.chunk.css.map": "/HokkaidoTravel/static/css/main.00c322fc.chunk.css.map",
     "static/js/2.01abe5bc.chunk.js.LICENSE.txt": "/HokkaidoTravel/static/js/2.01abe5bc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bdbc6cfe.js",
     "static/js/2.01abe5bc.chunk.js",
     "static/css/main.00c322fc.chunk.css",
-    "static/js/main.b07de2f7.chunk.js"
+    "static/js/main.06ff1ed8.chunk.js"
   ]
 }
