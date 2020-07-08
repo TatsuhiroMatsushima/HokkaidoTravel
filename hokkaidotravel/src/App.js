@@ -11,7 +11,6 @@ import { Nittei } from './components/index'
 function App() {
   return (
     <div>
-      <h>ssssssssssssssss</h>
       {/* <Router>
         <div className="App">
           <Header />
