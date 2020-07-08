@@ -1,12 +1,12 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import {
-  BrowserRouter as Router,
-  Route,
-  // Redirect
-} from 'react-router-dom';
-import { Header ,Top,Nittei } from './components/index'
+// import {
+//   BrowserRouter as Router,
+//   Route,
+//   Redirect
+// } from 'react-router-dom';
+import { Nittei } from './components/index'
 
 function App() {
   return (
