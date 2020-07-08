@@ -17,7 +17,7 @@ function App() {
     //     <Route exact path='/Nittei' component={Nittei}/>
     //   </div>
     // </Router>
-    <Nittei/>
+    <Nittei />
   );
 }
 
