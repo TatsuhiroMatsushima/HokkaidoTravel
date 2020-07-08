@@ -1,3 +1,8 @@
+ npm install gh-pages --save-dev
+ private下に "homepage":"https://tatsuhiromatsushima.github.io/HokkaidoTravel/"
+ "deploy": "npm run build && gh-pages -d build"
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
