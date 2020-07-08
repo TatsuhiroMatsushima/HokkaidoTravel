@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HokkaidoTravel/precache-manifest.c5d37ef1189ad9b2c6e8b8543dea9435.js"
+  "/HokkaidoTravel/precache-manifest.c5f90c033c241527444d7bfd92a6aa0d.js"
 );
 
 self.addEventListener('message', (event) => {
