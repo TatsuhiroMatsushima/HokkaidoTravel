@@ -10,13 +10,14 @@ import { Header ,Top,Nittei } from './components/index'
 
 function App() {
   return (
-    <Router>
-      <div className="App">
-        <Header />
-        <Route exact path='/' component={Top} />
-        <Route exact path='/Nittei' component={Nittei}/>
-      </div>
-    </Router>
+    // <Router>
+    //   <div className="App">
+    //     <Header />
+    //     <Route exact path='/' component={Top} />
+    //     <Route exact path='/Nittei' component={Nittei}/>
+    //   </div>
+    // </Router>
+    <Nittei/>
   );
 }
 
