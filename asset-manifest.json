@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/HokkaidoTravel/static/css/main.00c322fc.chunk.css",
-    "main.js": "/HokkaidoTravel/static/js/main.42791538.chunk.js",
-    "main.js.map": "/HokkaidoTravel/static/js/main.42791538.chunk.js.map",
+    "main.js": "/HokkaidoTravel/static/js/main.fd93eb72.chunk.js",
+    "main.js.map": "/HokkaidoTravel/static/js/main.fd93eb72.chunk.js.map",
     "runtime-main.js": "/HokkaidoTravel/static/js/runtime-main.bdbc6cfe.js",
     "runtime-main.js.map": "/HokkaidoTravel/static/js/runtime-main.bdbc6cfe.js.map",
-    "static/js/2.7dad93a7.chunk.js": "/HokkaidoTravel/static/js/2.7dad93a7.chunk.js",
-    "static/js/2.7dad93a7.chunk.js.map": "/HokkaidoTravel/static/js/2.7dad93a7.chunk.js.map",
+    "static/js/2.8151b2e4.chunk.js": "/HokkaidoTravel/static/js/2.8151b2e4.chunk.js",
+    "static/js/2.8151b2e4.chunk.js.map": "/HokkaidoTravel/static/js/2.8151b2e4.chunk.js.map",
     "index.html": "/HokkaidoTravel/index.html",
-    "precache-manifest.c5f90c033c241527444d7bfd92a6aa0d.js": "/HokkaidoTravel/precache-manifest.c5f90c033c241527444d7bfd92a6aa0d.js",
+    "precache-manifest.4a4dbd0d1e06b5e32b7b56cecaf901a0.js": "/HokkaidoTravel/precache-manifest.4a4dbd0d1e06b5e32b7b56cecaf901a0.js",
     "service-worker.js": "/HokkaidoTravel/service-worker.js",
     "static/css/main.00c322fc.chunk.css.map": "/HokkaidoTravel/static/css/main.00c322fc.chunk.css.map",
-    "static/js/2.7dad93a7.chunk.js.LICENSE.txt": "/HokkaidoTravel/static/js/2.7dad93a7.chunk.js.LICENSE.txt"
+    "static/js/2.8151b2e4.chunk.js.LICENSE.txt": "/HokkaidoTravel/static/js/2.8151b2e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bdbc6cfe.js",
-    "static/js/2.7dad93a7.chunk.js",
+    "static/js/2.8151b2e4.chunk.js",
     "static/css/main.00c322fc.chunk.css",
-    "static/js/main.42791538.chunk.js"
+    "static/js/main.fd93eb72.chunk.js"
   ]
 }
