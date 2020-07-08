@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ea22b10352b643e9aaf76ecd326dfc2",
+    "revision": "81f8a320467d6b58422099d26ecaa22c",
     "url": "/HokkaidoTravel/index.html"
   },
   {
