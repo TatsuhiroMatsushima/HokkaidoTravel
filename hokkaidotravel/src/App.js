@@ -6,7 +6,7 @@ import './App.css';
 //   Route,
 //   Redirect
 // } from 'react-router-dom';
-import { Nittei } from './components/index'
+import { Nittei ,Header} from './components/index'
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
           <Route exact path='/Nittei' component={Nittei} />
         </div>
       </Router> */}
+      <Header />
       < Nittei />
     </div>
   );

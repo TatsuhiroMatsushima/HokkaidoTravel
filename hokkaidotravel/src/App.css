@@ -7,7 +7,7 @@
 }
 
 .container .contents {
-  width: 33%;
+  width: 100%;
   background-color: #b3cab3;
   border: solid;
   -webkit-box-sizing: border-box;

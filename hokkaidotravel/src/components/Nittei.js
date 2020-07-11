@@ -6,15 +6,17 @@ export default function Nittei() {
     const schedules = {
         day21: [
             { time: '16:31', event: 'あずさ' },
-            { time: '19:10', event: 'ホテル到着' },
+            { time: '19:10', event: '蒲田ホテルチェックイン' },
             { time: '19:30', event: '泥酔' },
             { time: '23:00', event: '死亡' }],
         day22: [
+            { time: '6:02', event: '京急蒲田出発' },
+            { time: '6:13', event: '羽田空港到着' },
             { time: '7:15', event: '羽田空港出発' },
             { time: '8:35', event: '函館空港到着' },
             { time: '9:05', event: 'オリックスレンタカーで受け取り' },
             { time: 'ぼちぼち', event: '観光' },
-            { time: '18:00', event: '函館ホテル到着' },
+            { time: '18:00', event: '函館ホテルチェックイン' },
             { time: '20:30', event: '泥酔' },
             { time: '23:00', event: '死亡' }],
         day23: [
@@ -23,7 +25,7 @@ export default function Nittei() {
             { time: '14:30', event: '熊牧場出発' },
             { time: '16:00', event: '小樽' },
             { time: '18:00', event: '小樽出発' },
-            { time: "19:30", event: "札幌ホテル到着" },
+            { time: "19:30", event: "札幌ホテルチェックイン" },
             { time: '20:00', event: '泥酔' }],
         day24: [
             { time: '9:00', event: '出発' },
@@ -64,6 +66,8 @@ export default function Nittei() {
                 <Date schedules={schedules.day28} date="7/28" lodgingUrl="https://goo.gl/maps/tfz7XeqgjcGnqNcz7" lodgingName="松嶋家" spots="観光スポット" />
                 <Date schedules={schedules.day29} date="7/29" lodgingUrl="https://goo.gl/maps/Fr87TNZFpQLHqG926" lodgingName="やまなし" spots="観光スポット" />
             </div>
+
+
         </div>
     )
 }
