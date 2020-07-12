@@ -10,7 +10,7 @@ export default function Date(props) {
             <a rel="noopener noreferrer" target="_blank" href={props.lodgingUrl} >{props.lodgingName} </a>
             </h3>
             {/* <h3 className="spots">観光地を入力:{props.spots}</h3> */}
-            <h3>タイムスケジュール<Timetable schedules={props.schedules} /></h3>
+            <h3>タイムスケジュール<Timetable map={props.map} schedules={props.schedules} /></h3>
         </section >
     )
 }

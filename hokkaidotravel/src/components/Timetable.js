@@ -3,8 +3,8 @@ import React from 'react'
 
 export default function Timetable(props) {
     return (
-        <div>
-            <table>
+        <div className='detail'>
+            <table className='schedule'>
                 <tbody>
                     {props.schedules.map(schedule => (
                         <tr key={Math.random()}>
@@ -14,6 +14,10 @@ export default function Timetable(props) {
                     ))}
                 </tbody>
             </table>
+            <iframe
+                src={props.map}
+                width="50%" height="100%" frameBorder="0" allowFullScreen="" aria-hidden="false" tabIndex="0">
+            </iframe>
         </div>
     )
 }
