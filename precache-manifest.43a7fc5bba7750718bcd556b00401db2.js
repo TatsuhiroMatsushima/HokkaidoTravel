@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55321ace6360594c0abc6307c001e10d",
+    "revision": "deb78e623e4ac7d604aa4332028a3223",
     "url": "/HokkaidoTravel/index.html"
   },
   {
-    "revision": "bc1ac730d9a9e36abebf",
+    "revision": "2872ae39adfc2e1dcc9f",
     "url": "/HokkaidoTravel/static/css/main.bb1b7941.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HokkaidoTravel/static/js/2.37bcb84c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc1ac730d9a9e36abebf",
-    "url": "/HokkaidoTravel/static/js/main.17f53ef0.chunk.js"
+    "revision": "2872ae39adfc2e1dcc9f",
+    "url": "/HokkaidoTravel/static/js/main.1f44f978.chunk.js"
   },
   {
     "revision": "23a25298136285145d8d",
