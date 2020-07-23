@@ -20,13 +20,13 @@ export default function Nittei() {
             { time: '20:30', event: '泥酔' },
             { time: '23:00', event: '死亡' }],
         day23: [
-            { time: '10:00', event: '函館出発' },
+            { time: '9:00', event: '函館出発' },
+            { time: '11:30', event: 'サービスエリアで昼飯' },
             { time: '13:00', event: '熊牧場' },
             { time: '14:30', event: '熊牧場出発' },
-            { time: '16:00', event: '小樽' },
-            { time: '18:00', event: '小樽出発' },
-            { time: "19:30", event: "札幌ホテルチェックイン" },
-            { time: '20:00', event: '泥酔' }],
+            { time: '17:00', event: '小樽' },
+            { time: '19:00', event: '小樽出発' },
+            { time: "20:30", event: "札幌ホテルチェックイン" }],
         day24: [
             { time: '9:00', event: '出発' },
             { time: '11:30', event: '飯?' },
